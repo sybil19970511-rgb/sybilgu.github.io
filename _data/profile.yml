@@ -49,18 +49,22 @@ portrait_caption: >-
   I eat, therefore I am.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
+- name: Lingnan University
+  logo: assets/images/badges/Lingnan_Emblem.jpg
+  position: Ph.D. in English
+  date: Aug. 2021 - Oct. 2024
+- name: City University of Hong Kong
   logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
+  position: M.A. in Language Studies
+  date: Aug. 2019 - Oct. 2021
+- name: Hangzhou Normal University, Qianjiang College
   logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+  position: B.A. in English
+  date: Sep. 2015 - Jun. 2020
+- name: The University of California, Los Angeles
+  logo: /assets/images/badges/NAU.png
+  position: Visiting Student
+  date: Aug. 2017 - Sep. 2017
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
