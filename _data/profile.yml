@@ -3,7 +3,7 @@ secondary_name: "Jiapei Gu"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
+- logo: /assets/images/lingnan-university-logo  # Logo is optional
   name: Ph.D. in English
 # - name: Position 2 without logo
 
