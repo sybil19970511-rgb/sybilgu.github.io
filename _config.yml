@@ -13,6 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+title: "Jiapei GU (Sybil)"
+name: "Jiapei GU"
+description: "Academic website of Jiapei GU (Sybil), Post-doctoral Fellow at EduHK."
+url: "https://sybil19970511-rgb.github.io/sybilgu.github.io" # 如果你有绑定的自定义域名，可以换成你的域名
+
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
