@@ -67,30 +67,41 @@ education:
   date: Aug. 2017 - Sep. 2017
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
+- name: The Education University of Hong Kong
   logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
+  position: Post-doctoral Fellow - Social Media Analytical Research team (SMART) team
+  date: Jan. 2025 - present
 
-- name: Harvard University
+- name: Lingnan University
   logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
+  position: Part-time Lecturer
+  date: Sept. 2024 - Dec. 2024
 
-- name: City of Hope
+- name: Hong Kong Shue Yan University
   logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
+  position: Part-time Lecturer
+  date: Jan. 2024 - Dec. 2024
 
-- name: The Hong Kong Polytechnic University
+- name: The School of Continuing Education of Hong Kong Baptist University
   logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
+  position: Part-time Lecturer
+  date: Sep. 2024 - Dec. 2024
 
-- name: NetEase Youdao
+- name: Panteion University of Social and Political Sciences
   logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
+  position: Teaching Assistant
+  date: Apr. 2023 - May. 2023
+
+- name: Lingnan University
+  logo: /assets/images/badges/youdaojfif.jfif
+  position: Teaching Assistant
+  date: Jan. 2022 - Dec. 2022
+
+- name: 21st Century China Daily
+  logo: /assets/images/badges/youdaojfif.jfif
+  position: Content Producer
+  date: Jul. 2020 - Jun. 2021
+
 
 
 awards:
