@@ -1,6 +1,6 @@
 ---
-title:          "Linguistic hostility, social exclusion, and the agency of African migrants in Hong Kong"
-date:           2024-05-03 00:01:00 +0800
+title:          "Anti-Black sentiments in Chinese Weibo discourse: A critical discourse historical analysis"
+date:           2024 00:01:00 +0800
 selected:       true
 #pub:            ""
 #pub_post:       'Social Semiotics'
@@ -9,7 +9,7 @@ selected:       true
 
 #abstract: >-
 #  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:  /assets/images/covers/2024-Buildingview.png
+cover:  assets/images/covers/Social semiotics_cover.webp
 authors:
   - Jiapei Gu
   - Janet Ho#
