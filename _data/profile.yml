@@ -68,60 +68,52 @@ education:
 
 experience:
 - name: The Education University of Hong Kong
-  logo: /assets/images/badges/UST.svg.png
+  logo: assets/images/badges/EDUHK_logo.png.webp
   position: Post-doctoral Fellow - Social Media Analytical Research team (SMART) team
   date: Jan. 2025 - present
 
 - name: Lingnan University
-  logo: /assets/images/badges/Harvard.png
+  logo: assets/images/badges/Lingnan_Emblem.jpg
   position: Part-time Lecturer
   date: Sept. 2024 - Dec. 2024
 
 - name: Hong Kong Shue Yan University
-  logo: /assets/images/badges/COH.png
+  logo: assets/images/badges/ShueYau_logo.jpg
   position: Part-time Lecturer
   date: Jan. 2024 - Dec. 2024
 
 - name: The School of Continuing Education of Hong Kong Baptist University
-  logo: /assets/images/badges/PolyU.svg_.png
+  logo: assets/images/badges/HKBU_logo.png
   position: Part-time Lecturer
   date: Sep. 2024 - Dec. 2024
 
 - name: Panteion University of Social and Political Sciences
-  logo: /assets/images/badges/youdaojfif.jfif
+  logo: assets/images/badges/Panteion_logo.png.webp
   position: Teaching Assistant
   date: Apr. 2023 - May. 2023
 
 - name: Lingnan University
-  logo: /assets/images/badges/youdaojfif.jfif
+  logo: assets/images/badges/Lingnan_Emblem.jpg
   position: Teaching Assistant
   date: Jan. 2022 - Dec. 2022
 
 - name: 21st Century China Daily
-  logo: /assets/images/badges/youdaojfif.jfif
+  logo: assets/images/badges/China Daily_logo.webp
   position: Content Producer
   date: Jul. 2020 - Jun. 2021
 
 
 
 awards:
-- name: Doctoral Student Professional Development Award ($1000)
-  date: Apr. 2026
-- name: AAG International Geographic Information Fund ($1200)
-  date: Feb. 2026
-- name: AAG AGSG Annual Meeting Award ($202)
-  date: Feb. 2026
-- name: TAMU Dean's Doctoral Fellowship
-  date: Aug. 2025
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
-  date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
-  date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
-- name: Outstanding Graduate Award
-  date: Jun. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
+- name: Lingnan University Studentship ($87,000)
+  date: 2021-2024
+- name: Best Employee of the Quarter at 21st Century China Daily in 2021
+  date: 2021
+- name: Excellent Graduate of Zhejiang Province in 2019
+  date: 2019
+- name: The 24th China Daily “21st Century Coca-Cola Cup” National English-Speaking Competition (Third Prize) in 2019
+  date: 2019
+- name: National Scholarship ($1020)
+  date: 2019
+- name: Hangzhou Government Scholarship ($1147)
+  date: 2017
